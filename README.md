@@ -8,7 +8,7 @@ This repository accompanies the manuscript submitted.
 
 The manuscript is currently under peer review. The repository is being prepared and will host:
 
-- the training, evaluation and Grad-CAM scripts used in the study;
+- the training, evaluation and scripts used in the study;
 - the texture descriptors and classification code;
 - the trained model weights and the out-of-fold predictions;
 
